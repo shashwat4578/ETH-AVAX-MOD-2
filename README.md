@@ -13,4 +13,4 @@ The project revolves around a smart contract implemented in Bank.sol. This contr
 
 #LICENSE
 
-This project is released under the MIT License. See the [LICENSE](https://github.com/shashwat4578/ETH-AVAX-MOD-2/blob/main/LICENSE)https://github.com/shashwat4578/ETH-AVAX-MOD-2/blob/main/LICENSE file for more details.
+This project is released under the MIT License. See the [LICENSE](https://github.com/shashwat4578/ETH-AVAX-MOD-2/blob/main/LICENSE) file for more details.
