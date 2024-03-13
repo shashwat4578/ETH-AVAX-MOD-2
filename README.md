@@ -11,6 +11,6 @@ The project revolves around a smart contract implemented in Bank.sol. This contr
 
 - Deployment Code: The deployment code, essential for deploying the smart contract, is encapsulated in Deploy.js. This file provides the necessary setup for deploying your contract on the Ethereum and Avalanche networks.
 
-#LICENSE
+# LICENSE
 
 This project is released under the MIT License. See the [LICENSE](https://github.com/shashwat4578/ETH-AVAX-MOD-2/blob/main/LICENSE) file for more details.
