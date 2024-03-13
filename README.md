@@ -10,3 +10,7 @@ The project revolves around a smart contract implemented in Bank.sol. This contr
 - Frontend Interface: The frontend of the application is designed for user interaction. Explore the interactive components by checking out App.js and the styling in App.css.
 
 - Deployment Code: The deployment code, essential for deploying the smart contract, is encapsulated in Deploy.js. This file provides the necessary setup for deploying your contract on the Ethereum and Avalanche networks.
+
+#LICENSE
+
+This project is released under the MIT License. See the LICENSE file for more details.
